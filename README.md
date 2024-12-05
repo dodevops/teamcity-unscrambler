@@ -1,6 +1,6 @@
 # Teamcity unscrambler
 
-Unscrambles passwords used in Teamcity
+Unscrambles passwords used in Teamcity and scrambled with [default strategy](https://www.jetbrains.com/help/teamcity/teamcity-configuration-and-maintenance.html#encryption-settings)
 
 ## Requirements
 
